@@ -2,7 +2,7 @@
   <img alt="Hi I'm Akhil I.A" title="Hi" src="http://readme-typing-svg.herokuapp.com?color=%2335CD75&size=30&lines=Hi%2C+I'm+Akhil+I.A&center=true">
 </h1>
 <p align="center">
-  <a href="https://github.com/AlvinJoyDev">
+  <a href="https://github.com/AKHIL-Dyc">
     <img src="https://github-readme-stats.vercel.app/api?username=AKHIL-DyC&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="AKHIL-DyC's github stats" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/AKHIL-DyC">
