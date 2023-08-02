@@ -3,7 +3,7 @@
 </h1>
 <p align="center">
   <a href="https://github.com/AKHIL-Dyc">
-    <img src="https://github-readme-stats.vercel.app/api?username=AKHIL-DyC&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="AKHIL-DyC's github stats" />
+    <img src=[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AKHIL-Dyc&theme=gotham)](https://git.io/streak-stats)DyC&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="AKHIL-DyC's github stats" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/AKHIL-DyC">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHIL-DyC&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&show_icons=true" />
