@@ -6,6 +6,6 @@
 </p>
 <p align="center">
   <a href="https://github.com/AKHIL-DyC">
-    <img src="https://github-profile-trophy.vercel.app/?username=AlvinJoyDev&theme=tokyonight&no-frame=true" alt="AKHIL-DyC's github stats" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AKHIL-DyC&theme=tokyonight&no-frame=true" alt="AKHIL-DyC's github stats" />
   </a>
 </p>
