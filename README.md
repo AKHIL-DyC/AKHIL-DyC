@@ -8,4 +8,5 @@
   <a href="https://github.com/AKHIL-DyC">
     <img src="https://github-profile-trophy.vercel.app/?username=AKHIL-DyC&theme=tokyonight&no-frame=true" alt="AKHIL-DyC's github stats" />
   </a>
+   <a href="https://akhil-mec.vercel.app/">Contact</a>
 </p>
