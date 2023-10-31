@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Hi I'm Akhil I.A" title="Hi" src="http://readme-typing-svg.herokuapp.com?color=%2335CD75&size=30&lines=Hi%2C+I'm+Akhil+I.A&center=true">
+  <img alt="Hi I'm Akhil I.A" title="Hi" src="http://readme-typing-svg.herokuapp.com?color=%84CAE7&size=30&lines=Hi%2C+I'm+Akhil+I.A&center=true">
 </h1>
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AKHIL-DyC"/></a>
