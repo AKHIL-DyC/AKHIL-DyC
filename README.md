@@ -17,4 +17,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHIL-DyC&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&show_icons=true" />
   </a>
 </p>
-![](https://hit.yhype.me/github/profile?user_id=119416316)
+<p align="center">
+  <a href="https://github.com/alvinsjoy">
+    <img alt="Profile Views" title="Profile Views" src="https://visitcount.itsvg.in/api?id=AKHIL-DyC&label=Profile%20Views&icon=2&pretty=true" />
+  </a>
+</p>
