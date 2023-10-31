@@ -1,7 +1,6 @@
 <h1 align="center">
   <img alt="Hi I'm Akhil I.A" title="Hi" src="http://readme-typing-svg.herokuapp.com?color=%84CAE7&size=30&lines=Hi%2C+I'm+Akhil+I.A&center=true">
 </h1>
-![](https://komarev.com/ghpvc/?user_id=119416316)
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AKHIL-DyC"/></a>
 </p>
@@ -18,4 +17,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHIL-DyC&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&show_icons=true" />
   </a>
 </p>
-
+![](https://komarev.com/ghpvc/?user_id=119416316)
