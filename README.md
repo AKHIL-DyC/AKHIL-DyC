@@ -1,5 +1,7 @@
 <h1 align="center">
+  <p align="center">
   <img alt="Hi I'm Akhil I.A" title="Hi" src="http://readme-typing-svg.herokuapp.com?color=%84CAE7&size=30&lines=Hi%2C+I'm+Akhil+I.A&center=true">
+  </p>
 </h1>
  <img src ="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" >
 <p align="center">
