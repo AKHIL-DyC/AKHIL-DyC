@@ -3,7 +3,7 @@
   <img alt="Hi I'm Akhil I.A" title="Hi" src="http://readme-typing-svg.herokuapp.com?color=%84CAE7&size=30&lines=Hi%2C+I'm+Akhil+I.A&center=true">
   </p>
 </h1>
-<iframe src="https://giphy.com/embed/oOxSXI5D2cvc6kYSvw" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/matrix-neo-code-oOxSXI5D2cvc6kYSvw">via GIPHY</a></p>
+![Matrix GIF](https://giphy.com/embed/oOxSXI5D2cvc6kYSvw)
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AKHIL-DyC"/></a>
 </p>
