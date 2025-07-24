@@ -3,7 +3,7 @@
   <img alt="Hi I'm Akhil I.A" title="Hi" src="http://readme-typing-svg.herokuapp.com?color=%84CAE7&size=30&lines=Hi%2C+I'm+Akhil+I.A&center=true">
   </p>
 </h1>
-<img src="https://media1.tenor.com/m/Z_Ah8rkdZ4YAAAAC/walking-code.gif"/>
+
 <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AKHIL-DyC"/></a>
 </p>
