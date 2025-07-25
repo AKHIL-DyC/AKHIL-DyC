@@ -21,7 +21,5 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/AKHIL-DyC">
-    <img alt="Profile Views" title="Profile Views" src="https://visitcount.itsvg.in/api?id=AKHIL-DyC&label=Profile%20Views&icon=2&pretty=true" />
-  </a>
+ 
 </p>
